@@ -16,4 +16,7 @@ export const theme = createMuiTheme({
       main: blue[600],
     },
   },
+  zIndex: {
+    drawer: 1
+  }
 })
